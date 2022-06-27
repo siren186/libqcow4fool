@@ -1,0 +1,6 @@
+Release
+*.suo
+*.ncb
+*.user
+.vs
+VSDebug
